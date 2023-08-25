@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "kartEsletirmeOyunu",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "kartEsletirmeOyunu"
+  }
+}
