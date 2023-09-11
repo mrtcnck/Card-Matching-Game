@@ -1,15 +1,13 @@
 # Card-Matching-Game
 
-I used HTML, CSS, JavaScript to make this game. 
-My card matching game project is a project assignment I did when I was at university. 
-I took care to use JS DOM structure while making this game.
+Oyunu yapmak için HTML, CSS ve JavaScript kullandım. Kart eşleştirme oyunu üniversitem için yapılmış bir proje ödevimdir. Bu oyun yapılırken JS DOM yapısını kullanmaya özen gösterdim. İlk versiyonda; JS DOM yapısı ile oyunun sorunsuz şekilde çalışmasını sağladım. İkinci versiyonda; gerekli tasarımları yaptım ve sağ tarafta genel skorun gözükmesini sağladım. 
 
-<h2 align="left">Game Setup</h2>
-After downloading the game file and making sure that it is not in the zip file, just double click on the "index.html" web page.
+<h2 align="left">Oyunun Kurulumu</h2>
+Oyun dosyasını indirdikten ve zip dosyasında olmadığından emin olduktan sonra, "index.html" web sayfasına çift tıklayın.
 
-<h2 align="left">GamePlay</h2>
-The gameplay is very simple. 
-You click on two of the cards and try to match the cards that keep coming up randomly. 
-If you get it wrong, the cards spin again, if you get it right, the cards add 1 to your score. 
-You can see your total score and in-game score in the table on the right. 
-Have a good game.
+<h2 align="left">Oynanış</h2>
+Oynanış çok basit. 
+Kartlardan ikisine tıklıyorsunuz ve rastgele gelen kartları eşleştirmeye çalışıyorsunuz. 
+Yanlış yaparsanız kartlar tekrar dönüyor, doğru yaparsanız kartlar puanınıza 1 ekliyor. 
+Toplam puanınızı ve oyun içi puanınızı sağdaki tabloda görebilirsiniz. 
+İyi oyunlar.
